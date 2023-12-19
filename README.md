@@ -1,8 +1,8 @@
 
 # Task 
-Live Site: https://datadoat-student-portal-meraj.web.app
-## Note:
-Admin Email: `adminmeraj@gmail.com` <br> password: admin2211
+Live Site: https://datadoat-student-portal-meraj.web.app <br>
+
+Admin Email: `adminmeraj@gmail.com` <br> password: `admin2211`
 
 
 ### For local server
