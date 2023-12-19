@@ -1,0 +1,560 @@
+[
+    {
+        "collegeImage": "https://admissions.web.baylor.edu/sites/g/files/ecbvkj671/files/2022-07/Visit_GettingHere.jpg",
+        "collegeName": "Baylor University",
+        "admissionDates": "September 1 - November 30",
+        "events": [
+            "Annual Fest",
+            "Tech Expo",
+            "Cultural Night"
+        ],
+        "researchHistory": "Founded in 1950, Baylor University has a rich history of groundbreaking research.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Swimming",
+            "Tennis"
+        ],
+        "admissionProcess": "Applicants need to fill out an online form and appear for an entrance exam.",
+        "eventsDetails": [
+            {
+                "eventName": "Annual Fest",
+                "date": "March 15-17",
+                "description": "A three-day extravaganza of music, dance, and fun."
+            },
+            {
+                "eventName": "Tech Expo",
+                "date": "October 20-22",
+                "description": "Showcasing the latest technological innovations and projects by students."
+            },
+            {
+                "eventName": "Cultural Night",
+                "date": "December 5",
+                "description": "A celebration of diverse cultures through performances and food."
+            }
+        ],
+        "researchWorks": [
+            {
+                "title": "Advancements in Renewable Energy",
+                "authors": [
+                    "John Smith",
+                    "Emily Johnson"
+                ],
+                "publicationDate": "July 2022",
+                "abstract": "This research explores new breakthroughs in renewable energy sources."
+            },
+            {
+                "title": "AI and its Impact on Society",
+                "authors": [
+                    "Michael Lee",
+                    "Sophia Chen"
+                ],
+                "publicationDate": "January 2023",
+                "abstract": "Examining the societal implications of artificial intelligence."
+            }
+        ],
+        "sportsCategories": [
+            {
+                "category": "Football",
+                "rules": "Standard football rules apply.",
+                "facilities": "State-of-the-art football field and equipment."
+            },
+            {
+                "category": "Basketball",
+                "rules": "Matches follow NBA rules.",
+                "facilities": "Indoor basketball court available."
+            },
+            {
+                "category": "Swimming",
+                "rules": "Various swimming styles competitions.",
+                "facilities": "Olympic-sized swimming pool."
+            },
+            {
+                "category": "Tennis",
+                "rules": "Matches follow ITF rules.",
+                "facilities": "Multiple tennis courts with synthetic grass."
+            }
+        ],
+        "collegeRating": 4.7,
+        "numberOfResearch": 102,
+        "reviews": [
+            {
+                "reviewerName": "Alice Johnson",
+                "comment": "Amazing campus and friendly professors!"
+            },
+            {
+                "reviewerName": "Robert Adams",
+                "comment": "Great research opportunities."
+            },
+            {
+                "reviewerName": "Emma Smith",
+                "comment": "The sports facilities are top-notch."
+            }
+        ]
+    },
+    {
+        "collegeImage": "https://images.shiksha.com/mediadata/images/1652342387php6V3hhZ.jpeg",
+        "collegeName": "Sunshine University",
+        "admissionDates": "October 1 - December 15",
+        "events": [
+            "Tech Fair",
+            "Science Symposium",
+            "Cultural Week"
+        ],
+        "researchHistory": "A leading research institution since its establishment in 1965.",
+        "sports": [
+            "Cricket",
+            "Volleyball",
+            "Badminton",
+            "Athletics"
+        ],
+        "admissionProcess": "Online application and a written test are part of the admission process.",
+        "eventsDetails": [
+            {
+                "eventName": "Tech Fair",
+                "date": "March 8-10",
+                "description": "An exhibition of the latest technological advancements."
+            },
+            {
+                "eventName": "Science Symposium",
+                "date": "November 15-17",
+                "description": "Prominent scientists share their research findings."
+            },
+            {
+                "eventName": "Cultural Week",
+                "date": "December 20-25",
+                "description": "A celebration of cultural diversity through performances and workshops."
+            }
+        ],
+        "researchWorks": [
+            {
+                "title": "Nanotechnology Innovations",
+                "authors": [
+                    "Robert Johnson",
+                    "Lisa Wang"
+                ],
+                "publicationDate": "June 2022",
+                "abstract": "Exploring cutting-edge nanotechnology applications."
+            },
+            {
+                "title": "Biomedical Breakthroughs",
+                "authors": [
+                    "Daniel Lee",
+                    "Sophie Adams"
+                ],
+                "publicationDate": "February 2023",
+                "abstract": "Revolutionary discoveries in the field of biomedicine."
+            }
+        ],
+        "sportsCategories": [
+            {
+                "category": "Cricket",
+                "rules": "Matches follow ICC rules.",
+                "facilities": "Well-maintained cricket grounds and equipment."
+            },
+            {
+                "category": "Volleyball",
+                "rules": "Standard volleyball rules apply.",
+                "facilities": "Indoor and outdoor volleyball courts available."
+            },
+            {
+                "category": "Badminton",
+                "rules": "Matches follow BWF rules.",
+                "facilities": "Modern badminton courts."
+            },
+            {
+                "category": "Athletics",
+                "rules": "Various track and field events.",
+                "facilities": "Full-fledged athletics stadium."
+            }
+        ],
+        "collegeRating": 4.8,
+        "numberOfResearch": 85,
+        "reviews": [
+            {
+                "reviewerName": "John Miller",
+                "comment": "Outstanding faculty and research opportunities."
+            },
+            {
+                "reviewerName": "Sarah Anderson",
+                "comment": "The campus environment is conducive to learning."
+            },
+            {
+                "reviewerName": "David Wilson",
+                "comment": "Excellent sports facilities."
+            }
+        ]
+    },
+    {
+        "collegeImage": "https://ctcl.org/wp-content/uploads/2015/08/CTCL-Evergreen-1-810x540.jpg",
+        "collegeName": "Evergreen College",
+        "admissionDates": "August 15 - November 30",
+        "events": [
+            "Annual Sports Meet",
+            "Cultural Fest",
+            "Tech Symposium"
+        ],
+        "researchHistory": "Established in 1978, Evergreen College has a legacy of impactful research.",
+        "sports": [
+            "Soccer",
+            "Swimming",
+            "Table Tennis",
+            "Basketball"
+        ],
+        "admissionProcess": "Admissions are based on merit and entrance examination scores.",
+        "eventsDetails": [
+            {
+                "eventName": "Annual Sports Meet",
+                "date": "January 20-22",
+                "description": "An intercollegiate sports competition promoting teamwork and sportsmanship."
+            },
+            {
+                "eventName": "Cultural Fest",
+                "date": "March 5-7",
+                "description": "A celebration of arts, music, and culture from diverse backgrounds."
+            },
+            {
+                "eventName": "Tech Symposium",
+                "date": "October 12-14",
+                "description": "Showcasing innovative tech projects and talks by industry experts."
+            }
+        ],
+        "researchWorks": [
+            {
+                "title": "Environmental Sustainability Initiatives",
+                "authors": [
+                    "Emma Carter",
+                    "James Anderson"
+                ],
+                "publicationDate": "June 2022",
+                "abstract": "Investigating solutions for a sustainable future and eco-friendly practices."
+            },
+            {
+                "title": "Advances in Artificial Intelligence",
+                "authors": [
+                    "Sophia Lee",
+                    "Daniel Johnson"
+                ],
+                "publicationDate": "December 2023",
+                "abstract": "Exploring breakthroughs in AI applications and machine learning."
+            }
+        ],
+        "sportsCategories": [
+            {
+                "category": "Soccer",
+                "rules": "Matches follow FIFA rules.",
+                "facilities": "Well-maintained soccer field with floodlights."
+            },
+            {
+                "category": "Swimming",
+                "rules": "Various swimming styles competitions.",
+                "facilities": "Heated Olympic-sized swimming pool."
+            },
+            {
+                "category": "Table Tennis",
+                "rules": "Standard table tennis rules apply.",
+                "facilities": "Indoor table tennis courts available."
+            },
+            {
+                "category": "Basketball",
+                "rules": "Matches follow NBA rules.",
+                "facilities": "Modern indoor basketball court."
+            }
+        ],
+        "collegeRating": 4.6,
+        "numberOfResearch": 72,
+        "reviews": [
+            {
+                "reviewerName": "Olivia Williams",
+                "comment": "Highly supportive faculty and a beautiful campus."
+            },
+            {
+                "reviewerName": "William Davis",
+                "comment": "Impressed with the research opportunities provided."
+            },
+            {
+                "reviewerName": "Emily Johnson",
+                "comment": "The sports facilities are fantastic."
+            }
+        ]
+    },
+    {
+        "collegeImage": "https://www.velocityokc.com/clientuploads/directory/super_blog/VeloCity_OSU.jpg",
+        "collegeName": "Greenwood University",
+        "admissionDates": "October 1 - December 31",
+        "events": [
+            "Annual Cultural Fair",
+            "Tech Expo",
+            "Sports Carnival"
+        ],
+        "researchHistory": "A prestigious institution with a legacy of pioneering research since 1960.",
+        "sports": [
+            "Cricket",
+            "Football",
+            "Athletics",
+            "Basketball"
+        ],
+        "admissionProcess": "Admissions are based on entrance exams and interviews.",
+        "eventsDetails": [
+            {
+                "eventName": "Annual Cultural Fair",
+                "date": "March 10-12",
+                "description": "A celebration of diverse cultures through performances, art, and cuisines."
+            },
+            {
+                "eventName": "Tech Expo",
+                "date": "November 5-7",
+                "description": "Showcasing cutting-edge technology and innovations by students and industry experts."
+            },
+            {
+                "eventName": "Sports Carnival",
+                "date": "December 15-18",
+                "description": "An intercollegiate sports event featuring various competitive sports."
+            }
+        ],
+        "researchWorks": [
+            {
+                "title": "Advancements in Medical Sciences",
+                "authors": [
+                    "Dr. Sarah Johnson",
+                    "Dr. Michael Lee"
+                ],
+                "publicationDate": "April 2022",
+                "abstract": "Exploring breakthroughs in medical research and healthcare advancements."
+            },
+            {
+                "title": "Innovations in Sustainable Architecture",
+                "authors": [
+                    "John Smith",
+                    "Emily Carter"
+                ],
+                "publicationDate": "January 2023",
+                "abstract": "Investigating eco-friendly and energy-efficient architectural designs."
+            }
+        ],
+        "sportsCategories": [
+            {
+                "category": "Cricket",
+                "rules": "Matches follow ICC rules.",
+                "facilities": "State-of-the-art cricket ground and equipment."
+            },
+            {
+                "category": "Football",
+                "rules": "Matches follow FIFA rules.",
+                "facilities": "Modern football field with seating stands."
+            },
+            {
+                "category": "Athletics",
+                "rules": "Various track and field events.",
+                "facilities": "Well-equipped athletics track and training facilities."
+            },
+            {
+                "category": "Basketball",
+                "rules": "Matches follow NBA rules.",
+                "facilities": "Indoor basketball court with professional lighting."
+            }
+        ],
+        "collegeRating": 4.9,
+        "numberOfResearch": 120,
+        "reviews": [
+            {
+                "reviewerName": "Sophia Adams",
+                "comment": "An excellent place for academic and personal growth."
+            },
+            {
+                "reviewerName": "David Wilson",
+                "comment": "Impressed by the research opportunities and facilities."
+            },
+            {
+                "reviewerName": "Emma Johnson",
+                "comment": "The cultural fair was a delightful experience."
+            }
+        ]
+    },
+    {
+        "collegeImage": "https://i.vimeocdn.com/video/761268489-2577dcccbdf88376b235dd975e5fcc102fe0ba4f125d35b4f185fc2b95a394db-d_640",
+        "collegeName": "Harmony College of Arts",
+        "admissionDates": "November 1 - January 15",
+        "events": [
+            "Art Expo",
+            "Music Fest",
+            "Literary Symposium"
+        ],
+        "researchHistory": "A renowned arts college known for fostering creative excellence since 1985.",
+        "sports": [
+            "Painting",
+            "Dancing",
+            "Theater",
+            "Sculpting"
+        ],
+        "admissionProcess": "Admissions are based on portfolio evaluation and interviews.",
+        "eventsDetails": [
+            {
+                "eventName": "Art Expo",
+                "date": "April 7-9",
+                "description": "An exhibition showcasing diverse art forms and talented artists."
+            },
+            {
+                "eventName": "Music Fest",
+                "date": "November 25-27",
+                "description": "A celebration of music with performances and workshops."
+            },
+            {
+                "eventName": "Literary Symposium",
+                "date": "January 5-7",
+                "description": "Exploring literary works and discussions by renowned authors."
+            }
+        ],
+        "researchWorks": [
+            {
+                "title": "Exploring Abstract Expressionism",
+                "authors": [
+                    "Lucy Johnson",
+                    "David Lee"
+                ],
+                "publicationDate": "May 2022",
+                "abstract": "Investigating the significance and impact of abstract expressionism in art."
+            },
+            {
+                "title": "Reviving Traditional Folk Dances",
+                "authors": [
+                    "Samantha Adams",
+                    "Michael Chen"
+                ],
+                "publicationDate": "March 2023",
+                "abstract": "Promoting and preserving traditional folk dances in contemporary times."
+            }
+        ],
+        "sportsCategories": [
+            {
+                "category": "Painting",
+                "rules": "Artistic freedom and creativity encouraged.",
+                "facilities": "Well-equipped art studios and materials provided."
+            },
+            {
+                "category": "Dancing",
+                "rules": "Various dance forms encouraged.",
+                "facilities": "Spacious dance studios with professional instructors."
+            },
+            {
+                "category": "Theater",
+                "rules": "Dramatic performances and experimental theater encouraged.",
+                "facilities": "Black-box theater with modern sound and lighting."
+            },
+            {
+                "category": "Sculpting",
+                "rules": "Freedom to experiment with different sculpting techniques.",
+                "facilities": "Sculpting workshops with various materials available."
+            }
+        ],
+        "collegeRating": 4.7,
+        "numberOfResearch": 65,
+        "reviews": [
+            {
+                "reviewerName": "Sophie Carter",
+                "comment": "A nurturing environment for artists to grow and express themselves."
+            },
+            {
+                "reviewerName": "Daniel Wilson",
+                "comment": "Highly recommended for aspiring artists."
+            },
+            {
+                "reviewerName": "Olivia Adams",
+                "comment": "The art expo was a mesmerizing experience."
+            }
+        ]
+    },
+    {
+        "collegeImage": "https://ats.org/wp-content/uploads/2020/02/Impact-Urban-Tech-Hub.jpg",
+        "collegeName": "TechHub Institute of Technology",
+        "admissionDates": "December 1 - February 28",
+        "events": [
+            "Tech Expo",
+            "Hackathon",
+            "Career Fair"
+        ],
+        "researchHistory": "A leading technology institute known for groundbreaking innovations since 1990.",
+        "sports": [
+            "Robotics",
+            "Esports",
+            "Drone Racing",
+            "Virtual Reality"
+        ],
+        "admissionProcess": "Admissions are based on a technical aptitude test and interviews.",
+        "eventsDetails": [
+            {
+                "eventName": "Tech Expo",
+                "date": "March 20-22",
+                "description": "An exhibition of the latest tech projects and advancements."
+            },
+            {
+                "eventName": "Hackathon",
+                "date": "January 10-12",
+                "description": "A coding competition fostering creativity and problem-solving skills."
+            },
+            {
+                "eventName": "Career Fair",
+                "date": "February 15-17",
+                "description": "Connecting students with top tech companies for job opportunities."
+            }
+        ],
+        "researchWorks": [
+            {
+                "title": "Artificial Intelligence Applications",
+                "authors": [
+                    "Dr. John Smith",
+                    "Dr. Emily Lee"
+                ],
+                "publicationDate": "July 2022",
+                "abstract": "Investigating practical applications of AI in various industries."
+            },
+            {
+                "title": "Advancements in Quantum Computing",
+                "authors": [
+                    "Dr. Michael Johnson",
+                    "Dr. Sophia Adams"
+                ],
+                "publicationDate": "November 2023",
+                "abstract": "Exploring the latest developments in quantum computing technology."
+            }
+        ],
+        "sportsCategories": [
+            {
+                "category": "Robotics",
+                "rules": "Competitions involve autonomous robot challenges.",
+                "facilities": "Well-equipped robotics lab and testing arena."
+            },
+            {
+                "category": "Esports",
+                "rules": "Intercollegiate esports tournaments for popular games.",
+                "facilities": "State-of-the-art esports arena with gaming setups."
+            },
+            {
+                "category": "Drone Racing",
+                "rules": "High-speed drone racing competitions.",
+                "facilities": "Dedicated outdoor drone racing track."
+            },
+            {
+                "category": "Virtual Reality",
+                "rules": "VR gaming and development competitions.",
+                "facilities": "Virtual reality lab with VR headsets and tools."
+            }
+        ],
+        "collegeRating": 4.9,
+        "numberOfResearch": 90,
+        "reviews": [
+            {
+                "reviewerName": "David Wilson",
+                "comment": "An excellent place for tech enthusiasts to thrive."
+            },
+            {
+                "reviewerName": "Sophia Carter",
+                "comment": "The hackathon was a challenging and rewarding experience."
+            },
+            {
+                "reviewerName": "Michael Adams",
+                "comment": "The institute provides top-notch technical education."
+            }
+        ]
+    }
+]
